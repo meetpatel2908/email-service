@@ -48,7 +48,7 @@ email-service/
 
 1. **Clone the repo:**
    ```bash
-   git clone <your-github-repo-url>
+   git clone <https://github.com/meetpatel2908/email-service.git>
    cd email-service
 
 Install dependencies:
@@ -95,3 +95,9 @@ Meet Patel
 Fresher, Backend Developer Trainee
 Email: meetpatel1234@email.com
 LinkedIn: www.linkedin.com/in/meet-patel-4a88821a7
+
+---
+
+## 🔗 Repository Link
+
+[https://github.com/meetpatel2908/email-service](https://github.com/meetpatel2908/email-service)
